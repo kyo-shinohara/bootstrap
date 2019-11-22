@@ -1,0 +1,5 @@
+<div class=“container”>　
+  <div class="row">
+      <img src="yuri.png" class="img-responsive center-block col" alt="ads via Carbon">
+  </div>
+</div>
